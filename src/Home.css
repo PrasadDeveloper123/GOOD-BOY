@@ -1,0 +1,75 @@
+input{
+
+    
+    outline: none;
+    width: 300px;
+    height: 30px;
+    margin-left: 140px;
+    
+    
+    
+}
+
+
+.prasad{
+    display: flex;
+}
+
+.ticket{
+    background-color: white;
+
+    width: 500px;
+    height:330px;
+    margin-top: 50px;
+    margin-left: 60px;
+    position: relative;
+
+}
+
+.praneeth{
+    width: 500px;
+    height:400px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.kohli{
+    margin-left: 70px;
+}
+
+div ul li::first-letter{
+    color:orange ;
+    background-color: orange;
+    width:2px;
+    height: 0px;
+    border-radius: 70%;
+    
+}
+
+div ul li{
+    list-style-type: none;
+}
+
+.i{
+    color:orange;
+    background-color:orangered;
+    border-radius: 60%;
+    font-size: 8px;
+    margin-right: 20px;
+     
+    
+}
+.third{
+    
+    
+    margin-left: 100px;
+    background-color:white;
+    
+}
+.pavan {
+    margin-top: 60px;
+    margin-right: 0px;
+}
+
+
+
